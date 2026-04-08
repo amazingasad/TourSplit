@@ -1,0 +1,9 @@
+node_modules/
+android/
+ios/
+dist/
+.DS_Store
+*.local
+
+# Keep resources but ignore generated
+# resources/ is committed so GitHub Actions can use them
