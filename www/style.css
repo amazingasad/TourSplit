@@ -323,21 +323,3 @@ select {
     font-size: 11px;
     cursor: pointer;
 }
-
-.add-expense-card {
-    background: var(--bg);
-    border: 1px solid var(--border);
-    border-radius: 20px;
-    padding: 20px;
-    margin-bottom: 20px;
-}
-
-.settlement-card {
-    background: var(--bg);
-    border: 1px solid var(--border);
-    border-radius: 20px;
-    padding: 20px;
-    margin-top: 15px;
-    font-size: 14px;
-    line-height: 1.8;
-}
